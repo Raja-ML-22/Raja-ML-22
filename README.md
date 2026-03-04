@@ -10,7 +10,7 @@ AI & ML student passionate about building real-world machine learning systems.
 Python • Machine Learning • Pandas • Scikit-learn • FastAPI • Git
 
 ## Current Goal
-Seeking Machine Learning Internship opportunities.## Hi there 👋
+Seeking Machine Learning Internship opportunities.
 
 <!--
 **Raja-ML-22/Raja-ML-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
