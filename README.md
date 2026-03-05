@@ -5,6 +5,7 @@ AI & ML student passionate about building real-world machine learning systems.
 ## Projects
 - Cost Optimized Churn Prediction System
 - Credit Card Fraud Detection System
+- Movie Recommendation System (FastAPI + TF-IDF + Render Deployment)
 
 ## Skills
 Python • Machine Learning • Pandas • Scikit-learn • FastAPI • Git
