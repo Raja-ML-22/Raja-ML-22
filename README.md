@@ -6,6 +6,9 @@ AI & ML student passionate about building real-world machine learning systems.
 - Cost Optimized Churn Prediction System
 - Credit Card Fraud Detection System
 - Movie Recommendation System (FastAPI + TF-IDF + Render Deployment)
+- - Movie Recommendation System  
+  Repo: https://github.com/Raja-ML-22/movie-recommendation-system  
+  Live API: https://movie-recommendation-system-4ab4.onrender.com/docs
 
 ## Skills
 Python • Machine Learning • Pandas • Scikit-learn • FastAPI • Git
