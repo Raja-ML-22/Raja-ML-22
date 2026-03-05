@@ -1,32 +1,59 @@
 # Hi, I'm Raja 👋
 
-AI & ML student passionate about building real-world machine learning systems.
+AI & ML student passionate about building **real-world machine learning systems and ML APIs**.
 
-## Projects
-- Cost Optimized Churn Prediction System
-- Credit Card Fraud Detection System
-- Movie Recommendation System (FastAPI + TF-IDF + Render Deployment)
-- - Movie Recommendation System  
-  Repo: https://github.com/Raja-ML-22/movie-recommendation-system  
-  Live API: https://movie-recommendation-system-4ab4.onrender.com/docs
+Currently focused on **Machine Learning Engineering, model deployment, and ML pipelines**.
 
-## Skills
-Python • Machine Learning • Pandas • Scikit-learn • FastAPI • Git
+---
 
-## Current Goal
-Seeking Machine Learning Internship opportunities.
+## 🚀 Projects
 
-<!--
-**Raja-ML-22/Raja-ML-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Movie Recommendation System
 
-Here are some ideas to get you started:
+Content-based recommendation system using **TF-IDF and cosine similarity**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Built using **Python, Pandas, Scikit-learn, FastAPI**
+* Deployed as a **live ML API**
+
+Repo:
+https://github.com/Raja-ML-22/movie-recommendation-system
+
+Live API Docs:
+https://movie-recommendation-system-4ab4.onrender.com/docs
+
+---
+
+### Cost Optimized Churn Prediction System
+
+Machine learning pipeline for predicting customer churn with **cost-sensitive threshold optimization**.
+
+Repo:
+https://github.com/Raja-ML-22/cost-optimized-churn-ml-system
+
+---
+
+### Credit Card Fraud Detection System
+
+Imbalanced classification problem solved using **Logistic Regression and Random Forest models**.
+
+Repo:
+https://github.com/Raja-ML-22/credit-card-fraud-detection
+
+---
+
+## 🧠 Skills
+
+Python • Machine Learning • Pandas • Scikit-learn
+FastAPI • ML Pipelines • Git • Model Deployment
+
+---
+
+## 🎯 Current Goal
+
+Seeking **Machine Learning Internship opportunities** where I can build and deploy real ML systems.
+
+---
+
+## 📫 Contact
+
+Email: [p.esakkiraja22@gmail.com](mailto:p.esakkiraja22@gmail.com)
