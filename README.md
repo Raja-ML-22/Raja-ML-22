@@ -43,16 +43,19 @@ https://github.com/Raja-ML-22/credit-card-fraud-detection
 
 ## 🧠 Skills
 
-Python • Machine Learning • Pandas • Scikit-learn
-FastAPI • ML Pipelines • Git • Model Deployment
+Python • NumPy • Pandas • Machine Learning • Scikit-learn • FastAPI • ML Pipelines • Git • Model Deployment
 
 ---
 
 ## 🎯 Current Goal
 
-Seeking **Machine Learning Internship opportunities** where I can build and deploy real ML systems.
+Seeking Machine Learning Internship opportunities where I can build and deploy real-world ML systems.
+Open to remote or on-site internships.
 
 ---
+
+![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raja-ML-22&show_icons=true&theme=tokyonight)
+
 
 ## 📫 Contact
 
