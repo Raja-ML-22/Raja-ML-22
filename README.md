@@ -56,6 +56,6 @@ Seeking **Machine Learning Internship opportunities** where I can build and depl
 
 ## 📫 Contact
 
-Email: [p.esakkiraja22@gmail.com](mailto:p.esakkiraja22@gmail.com)
-Phone: +91 9345053899
-LinkedIn: https://www.linkedin.com/in/esakki-raja-4b9980327/
+* Email: [p.esakkiraja22@gmail.com](mailto:p.esakkiraja22@gmail.com)
+* Phone: +91 9345053899
+* LinkedIn: https://www.linkedin.com/in/esakki-raja-4b9980327/
