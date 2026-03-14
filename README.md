@@ -1,64 +1,63 @@
 # Hi, I'm Raja 👋
 
-AI & ML student passionate about building **real-world machine learning systems and ML APIs**.
+AI & ML student focused on building real-world machine learning systems, APIs, and data analysis projects.
 
-Currently focused on **Machine Learning Engineering, model deployment, and ML pipelines**.
+## 🚀 About Me
 
----
-
-## 🚀 Projects
-
-### Movie Recommendation System
-
-Content-based recommendation system using **TF-IDF and cosine similarity**.
-
-* Built using **Python, Pandas, Scikit-learn, FastAPI**
-* Deployed as a **live ML API**
-
-Repo:
-https://github.com/Raja-ML-22/movie-recommendation-system
-
-Live API Docs:
-https://movie-recommendation-system-4ab4.onrender.com/docs
-
----
-
-### Cost Optimized Churn Prediction System
-
-Machine learning pipeline for predicting customer churn with **cost-sensitive threshold optimization**.
-
-Repo:
-https://github.com/Raja-ML-22/cost-optimized-churn-ml-system
-
----
-
-### Credit Card Fraud Detection System
-
-Imbalanced classification problem solved using **Logistic Regression and Random Forest models**.
-
-Repo:
-https://github.com/Raja-ML-22/credit-card-fraud-detection
+* 🎓 B.E AI & ML — Francis Xavier Engineering College
+* 💻 Interested in Machine Learning Engineering & Data Science
+* ⚙️ Experience in ML pipelines, APIs, and data analysis
+* 🔍 Looking for Machine Learning / Data Internships
 
 ---
 
 ## 🧠 Skills
 
-Python • NumPy • Pandas • Machine Learning • Scikit-learn • FastAPI • ML Pipelines • Git • Model Deployment
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
+FastAPI • REST API • Git • GitHub • Jupyter Notebook • SQL
 
 ---
 
-## 🎯 Current Goal
+## 🚀 Projects
 
-Seeking Machine Learning Internship opportunities where I can build and deploy real-world ML systems.
-Open to remote or on-site internships.
+### 📊 Trader Performance Analysis using Market Sentiment
+
+* Analyzed trader performance vs Fear & Greed index
+* Calculated win rate across sentiment categories
+* Visualized results using Pandas & Matplotlib
+  🔗 https://github.com/Raja-ML-22/trader_analysis
 
 ---
 
-![Raja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raja-ML-22&show_icons=true&theme=tokyonight)
+### 📉 Cost Optimized Churn Prediction System
 
+* Built ML pipeline for churn prediction
+* Threshold optimization for business cost
+* FastAPI deployment
+  🔗 https://github.com/Raja-ML-22/cost-optimized-churn-ml-system
+
+---
+
+### 🎬 Movie Recommendation API
+
+* TF-IDF + Cosine similarity
+* FastAPI REST API
+* Deployed with Swagger docs
+  🔗 https://github.com/Raja-ML-22/movie-recommendation-system
+
+---
+
+### 💳 Credit Card Fraud Detection
+
+* Classification on imbalanced data
+* Logistic Regression & Random Forest
+* PR-AUC evaluation
+  🔗 https://github.com/Raja-ML-22/credit-card-fraud-detection
+
+---
 
 ## 📫 Contact
 
-* Email: [p.esakkiraja22@gmail.com](mailto:p.esakkiraja22@gmail.com)
-* Phone: +91 9345053899
-* LinkedIn: https://www.linkedin.com/in/esakki-raja-4b9980327/
+Email: [p.esakkiraja22@gmail.com](mailto:p.esakkiraja22@gmail.com)
+GitHub: https://github.com/Raja-ML-22
+LinkedIn: https://www.linkedin.com/in/esakki-raja-4b9980327/
