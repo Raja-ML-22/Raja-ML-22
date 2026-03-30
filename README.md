@@ -1,63 +1,100 @@
-# Hi, I'm Raja 👋
+# Hi, I'm Esakki Raja 👋
 
-AI & ML student focused on building real-world machine learning systems, APIs, and data analysis projects.
+### Machine Learning & Backend Developer | Python • FastAPI • Scikit-learn • PyTorch
 
-## 🚀 About Me
+I am a 2nd year BE AI & ML student at Francis Xavier Engineering College, focused on building real-world Machine Learning systems and preparing for ML internships.
 
-* 🎓 B.E AI & ML — Francis Xavier Engineering College
-* 💻 Interested in Machine Learning Engineering & Data Science
-* ⚙️ Experience in ML pipelines, APIs, and data analysis
-* 🔍 Looking for Machine Learning / Data Internships
+Currently, I am learning:
 
----
-
-## 🧠 Skills
-
-Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn
-FastAPI • REST API • Git • GitHub • Jupyter Notebook • SQL
+* Machine Learning
+* Deep Learning
+* Data Structures & Algorithms
+* FastAPI Deployment
+* End-to-End ML Projects
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 📊 Trader Performance Analysis using Market Sentiment
+### 1. Cost-Optimized Churn Prediction System
 
-* Analyzed trader performance vs Fear & Greed index
-* Calculated win rate across sentiment categories
-* Visualized results using Pandas & Matplotlib
-  🔗 https://github.com/Raja-ML-22/trader_analysis
+* Built an end-to-end customer churn prediction pipeline using Logistic Regression, Random Forest, XGBoost, FastAPI, and threshold optimization.
+* Focused on minimizing business cost instead of only maximizing accuracy.
+* Public API deployed with FastAPI.
 
----
-
-### 📉 Cost Optimized Churn Prediction System
-
-* Built ML pipeline for churn prediction
-* Threshold optimization for business cost
-* FastAPI deployment
-  🔗 https://github.com/Raja-ML-22/cost-optimized-churn-ml-system
+Repository: [https://github.com/Raja-ML-22/cost-optimized-churn-ml-system](https://github.com/Raja-ML-22/cost-optimized-churn-ml-system)
 
 ---
 
-### 🎬 Movie Recommendation API
+### 2. Sentiment Analysis API
 
-* TF-IDF + Cosine similarity
-* FastAPI REST API
-* Deployed with Swagger docs
-  🔗 https://github.com/Raja-ML-22/movie-recommendation-system
+* Built and deployed a sentiment analysis API using PyTorch, TF-IDF, FastAPI, and IMDb movie reviews.
+* Trained on 40K reviews and evaluated on 10K reviews.
+* Achieved 82.29% accuracy and 81.86% F1-score.
+
+Repository: [https://github.com/Raja-ML-22/sentiment-analysis-api](https://github.com/Raja-ML-22/sentiment-analysis-api)
 
 ---
 
-### 💳 Credit Card Fraud Detection
+### 3. Credit Card Fraud Detection
 
-* Classification on imbalanced data
-* Logistic Regression & Random Forest
-* PR-AUC evaluation
-  🔗 https://github.com/Raja-ML-22/credit-card-fraud-detection
+* Built a fraud detection model on highly imbalanced transaction data.
+* Used Logistic Regression, Random Forest, class balancing, and PR-AUC evaluation.
+* Focused on maximizing fraud recall while controlling false positives.
+
+Repository: [https://github.com/Raja-ML-22/credit-card-fraud-detection](https://github.com/Raja-ML-22/credit-card-fraud-detection)
+
+---
+
+### 4. Trader Analysis
+
+* Analyzed the relationship between Fear & Greed market sentiment and trader performance.
+* Built visualizations and extracted insights from historical trading behavior.
+
+Repository: [https://github.com/Raja-ML-22/trader_analysis](https://github.com/Raja-ML-22/trader_analysis)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**
+
+* Python
+* SQL
+
+**Machine Learning:**
+
+* Scikit-learn
+* Pandas
+* NumPy
+* XGBoost
+* PyTorch
+
+**Backend & Deployment:**
+
+* FastAPI
+* Uvicorn
+* Render
+* GitHub
+
+**Currently Practicing:**
+
+* DSA
+* LeetCode
+* ML Interview Preparation
+
+---
+
+## 📈 Current Goal
+
+* Secure an ML internship at a product-based company
+* Continue building deployable ML projects
+* Become an AI/ML Engineer
 
 ---
 
 ## 📫 Contact
 
-Email: [p.esakkiraja22@gmail.com](mailto:p.esakkiraja22@gmail.com)
-GitHub: https://github.com/Raja-ML-22
-LinkedIn: https://www.linkedin.com/in/esakki-raja-4b9980327/
+* Email: [p.esakkiraja22@gmail.com](mailto:p.esakkiraja22@gmail.com)
+* GitHub: [https://github.com/Raja-ML-22](https://github.com/Raja-ML-22)
+* LinkedIn: [https://www.linkedin.com/in/esakki-raja-4b9980327/](https://www.linkedin.com/in/esakki-raja-4b9980327/)
