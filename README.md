@@ -2,7 +2,7 @@
 
 ### Machine Learning & Backend Developer | Python • FastAPI • Scikit-learn • PyTorch
 
-I am a 2nd year BE AI & ML student at Francis Xavier Engineering College, focused on building real-world Machine Learning systems and preparing for ML internships.
+I am a 3rd year BE AI & ML student at Francis Xavier Engineering College, focused on building real-world Machine Learning systems and preparing for ML internships.
 
 Currently, I am learning:
 
