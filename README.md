@@ -30,7 +30,7 @@ Repository: https://github.com/Raja-ML-22/cost-optimized-churn-ml-system
 * Trained on 40K reviews and evaluated on 10K reviews.
 * Achieved 82.29% accuracy and 81.86% F1-score.
 
-🔗 Live Demo: https://sentiment-analysis-api-cozh.onrender.com  
+🔗 Live Demo: https://sentiment-analysis-api-cozh.onrender.com/docs
 Repository: https://github.com/Raja-ML-22/sentiment-analysis-api
 
 ---
