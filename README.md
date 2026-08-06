@@ -50,7 +50,7 @@ Repository: https://github.com/Raja-ML-22/credit-card-fraud-detection
 * Exposed recommendations through a FastAPI REST API with a `/recommend` endpoint, deployed publicly on Render.
 * Includes interactive Swagger documentation for real-time testing.
 
-🔗 Live Demo: https://movie-recommendation-system-4ab4.onrender.com  
+🔗 Live Demo: https://movie-recommendation-system-4ab4.onrender.com/docs 
 Repository: https://github.com/Raja-ML-22/movie-recommendation-system
 
 ---
