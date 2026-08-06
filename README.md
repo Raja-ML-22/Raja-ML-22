@@ -20,7 +20,7 @@ Currently, I am learning:
 * Focused on minimizing business cost instead of only maximizing accuracy.
 * Public API deployed with FastAPI.
 
-🔗 Live Demo: https://churn-prediction-api-7zca.onrender.com  
+🔗 Live Demo: https://churn-prediction-api-7zca.onrender.com/docs
 Repository: https://github.com/Raja-ML-22/cost-optimized-churn-ml-system
 
 ---
