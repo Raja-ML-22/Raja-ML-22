@@ -38,13 +38,18 @@ Repository: [https://github.com/Raja-ML-22/sentiment-analysis-api](https://githu
 
 ### 3. Credit Card Fraud Detection
 
-* Built a fraud detection model on highly imbalanced transaction data.
-* Used Logistic Regression, Random Forest, class balancing, and PR-AUC evaluation.
-* Focused on maximizing fraud recall while controlling false positives.
+- Built and upgraded a fraud detection system on 284,807 credit card 
+  transactions with a highly imbalanced 0.17% fraud rate.
+- Compared 5 models — Logistic Regression, Random Forest, Random Forest 
+  (Balanced), XGBoost, and a balanced variant — using PR-AUC as the 
+  primary metric due to class imbalance.
+- Improved PR-AUC from 0.714 to 0.827 through full EDA, visual model 
+  comparisons, and permutation feature importance.
+- Key insight: XGBoost achieved the highest PR-AUC but carried the 
+  highest business cost at deployment; Random Forest (Balanced) was 
+  selected as the final model based on cost-optimized tradeoff analysis.
 
-Repository: [https://github.com/Raja-ML-22/credit-card-fraud-detection](https://github.com/Raja-ML-22/credit-card-fraud-detection)
-
----
+Repository: https://github.com/Raja-ML-22/credit-card-fraud-detection
 
 ### 4. Trader Analysis
 
