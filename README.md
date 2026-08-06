@@ -58,6 +58,16 @@ Repository: https://github.com/Raja-ML-22/credit-card-fraud-detection
 
 Repository: [https://github.com/Raja-ML-22/trader_analysis](https://github.com/Raja-ML-22/trader_analysis)
 
+### 5. Movie Recommendation System API 🎬
+
+- Built a content-based movie recommendation system using TF-IDF 
+  vectorization and cosine similarity on the MovieLens dataset.
+- Exposed recommendations through a FastAPI REST API with a `/recommend` 
+  endpoint, deployed publicly on Render.
+- Includes interactive Swagger documentation for real-time testing.
+
+Repository: https://github.com/Raja-ML-22/movie-recommendation-system
+
 ---
 
 ## 🛠 Tech Stack
